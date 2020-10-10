@@ -14,9 +14,6 @@
     <name>Aqua Server</name>
     <description>A multipurpose game server</description>
 
-    <properties>
-        <java.version>12</java.version>
-    </properties>
 
     <dependencies>
         <dependency>
